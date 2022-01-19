@@ -1,16 +1,17 @@
+<img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="200">
+
 ### Hi there 👋
 
-<!--
-**Prime-Phoenix/Prime-Phoenix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a guy with an interest in Tech. 
+I'm Trying to master Python and I hope to learn C# some time soon!
 
-Here are some ideas to get you started:
+I also love gaming, contact me on discord: `The Phoenix#8459`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+def Languages_I_Use():
+  languages = ['Python', 'javascript', 'html & css']
+```
+
+![](https://komarev.com/ghpvc/?username=your-github-username)Hmmm:
+<img src=”https://komarev.com/ghpvc/?username=Prime-Phoenix" alt=”Prime-Phoenix” />
+  
