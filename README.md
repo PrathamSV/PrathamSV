@@ -15,5 +15,5 @@ I also love gaming, contact me on discord: `The Phoenix#8459`
 def Languages_I_Know():
   languages = ['Python', 'javascript', 'HTML', 'CSS']
 ```
-I do Python mainly :P <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="50"> 
+I do Python mainly :P <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="20"> 
   <br>
