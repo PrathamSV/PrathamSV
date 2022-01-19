@@ -8,7 +8,7 @@ I'm Trying to master Python and I hope to learn C# some time soon!
 
 <br>
 
-I also love gaming, contact me on discord: `The Phoenix#8459` <img src='https://distok.top/stickers/749043879713701898/749044136589393960.png' width=50>
+I also love gaming, contact me on discord: `The Phoenix#8459` <img src='https://distok.top/stickers/749043879713701898/749044136589393960.png' width=40>
 
 <br><br>
 ```python
