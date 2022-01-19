@@ -9,7 +9,6 @@ I'm Trying to master Python and I hope to learn C# some time soon!
 <br>
 
 I also love gaming, contact me on discord: `The Phoenix#8459` <img src='https://pbs.twimg.com/media/DmKNuMwXsAAE2qO.png' width=40>
-
 <br><br>
 ```python
 def about_me():
