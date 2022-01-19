@@ -4,7 +4,7 @@
 <br>
 I'm a guy with an interest in Tech. 
 I'm Trying to master Python and I hope to learn C# some time soon!
-
+<br>
 I also love gaming, contact me on discord: `The Phoenix#8459`
 
 <br><br>
