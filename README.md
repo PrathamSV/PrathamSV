@@ -9,7 +9,7 @@ I also love gaming, contact me on discord: `The Phoenix#8459`
 
 <br><br>
 ```python
-def Languages_I_Use():
-  languages = ['Python', 'javascript', 'html & css']
+def Languages_I_Know():
+  languages = ['Python', 'javascript', 'HTML', 'CSS']
 ```
   <br>
