@@ -1,6 +1,6 @@
 <img align='right' src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="400"> 
 
-<img src='https://pngimg.com/uploads/hello/hello_PNG8.png' width='100'>
+<img src='https://pngimg.com/uploads/hello/hello_PNG8.png' width='80'>
 
 I'm a guy with an interest in Tech. 
 
