@@ -13,7 +13,7 @@ I also game, contact me on discord: `The Phoenix#8459` <img src='https://pbs.twi
 ```python
 def about_me():
   languages = ['Python', 'javascript', 'HTML', 'CSS']
-  tools = ['Sublime Text', 'VS Code', 'Pycharm']
+  tools = ['Sublime Text', 'VS Code', 'PyCharm']
 ```
 I do Python mainly :P
   <br>
