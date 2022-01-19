@@ -3,6 +3,7 @@
 ### Hi there 👋
 
 I'm a guy with an interest in Tech. 
+
 I'm Trying to master Python and I hope to learn C# some time soon!
 
 <br>
