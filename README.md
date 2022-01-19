@@ -12,8 +12,9 @@ I also love gaming, contact me on discord: `The Phoenix#8459` <img src='https://
 
 <br><br>
 ```python
-def Languages_I_Know():
+def about_me():
   languages = ['Python', 'javascript', 'HTML', 'CSS']
+  tools = ['Sublime Text, VS Code, Pycharm']
 ```
 I do Python mainly :P
   <br>
