@@ -1,7 +1,7 @@
 <img align='right' src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="500"> 
-<br>
-### Hi there 👋
 
+### Hi there 👋
+<br>
 I'm a guy with an interest in Tech. 
 I'm Trying to master Python and I hope to learn C# some time soon!
 
