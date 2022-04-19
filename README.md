@@ -4,7 +4,7 @@
 
 I'm a guy with an interest in Tech. 
 
-I'm Trying to master Python and I'm Developing Games using C#!
+I'm Trying to master Python and Developing Games using C#!
 
 <br>
 
