@@ -15,5 +15,4 @@ def about_me():
   languages = ['Python', 'JavaScript', 'HTML & CSS', 'C#']
   tools = ['Sublime Text', 'VS Code', 'PyCharm']
 ```
-I do Python mainly :P
   <br>
