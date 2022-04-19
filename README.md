@@ -12,7 +12,7 @@ I also game, contact me on discord: `The Phoenix#8459` <img src='https://pbs.twi
 <br><br>
 ```python
 def about_me():
-  languages = ['Python', 'javascript', 'HTML', 'CSS']
+  languages = ['Python', 'JavaScript', 'HTML & CSS', 'C#']
   tools = ['Sublime Text', 'VS Code', 'PyCharm']
 ```
 I do Python mainly :P
