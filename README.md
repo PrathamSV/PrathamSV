@@ -2,13 +2,14 @@
 
 <img src='https://pngimg.com/uploads/hello/hello_PNG8.png' width='65'>
 
-I'm a guy with an interest in Tech. 
+I'm currently learning <b>Python</b>, <b>C#</b>, <b>Java</b>, and trying to master the <b>foundations of OOP.</b>
 
-I'm Trying to master Python and Developing Games using C#!
+I'm interested in exploring <b>Machine Learning</b> and <b>Artificial Intelligence.</b>
+
 
 <br>
 
-I also game, contact me on discord: `The Phoenix#8459` <img src='https://pbs.twimg.com/media/DmKNuMwXsAAE2qO.png' width=40>
+Discord: `The Phoenix#8459` <img src='https://pbs.twimg.com/media/DmKNuMwXsAAE2qO.png' width=40>
 <br><br>
 ```python
 def about_me():
