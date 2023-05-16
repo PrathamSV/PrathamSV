@@ -2,9 +2,9 @@
 
 <h1><img src='https://pngimg.com/uploads/hello/hello_PNG8.png' width='65' styke='inline'> I am Pratham Shri Vasisht.</h1>
 
-I'm currently trying to master the <b>foundations of OOP</b>.
+- 🌱 I'm currently trying to master the <b>foundations of OOP</b>.
 
-I'm interested in exploring <b>Machine Learning</b> and <b>Artificial Intelligence.</b>
+- 🚀 I'm interested in exploring <b>Machine Learning</b> and <b>Artificial Intelligence.</b>
 
 
 <br>
