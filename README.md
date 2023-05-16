@@ -9,7 +9,7 @@ I'm interested in exploring <b>Machine Learning</b> and <b>Artificial Intelligen
 
 <br>
 
-Discord: `The Phoenix#8459` <img src='https://pbs.twimg.com/media/DmKNuMwXsAAE2qO.png' width=40>
+Discord: `The Phoenix#8459` <img src='https://pbs.twimg.com/media/DmKNuMwXsAAE2qO.png' width=40 style="vertical-align:middle">
 <br><br>
 ```python
 def about_me():
