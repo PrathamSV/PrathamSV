@@ -1,6 +1,6 @@
 <img align='right' src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="400"> 
 
-<img src='https://pngimg.com/uploads/hello/hello_PNG8.png' width='65' styke='inline'> <h2>I am Pratham Shri Vasisht.</h2>
+<h2><img src='https://pngimg.com/uploads/hello/hello_PNG8.png' width='65' styke='inline'> I am Pratham Shri Vasisht.</h2>
 
 I'm currently trying to master the <b>foundations of OOP</b>.
 
