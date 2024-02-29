@@ -10,7 +10,7 @@
 
 ```python
 def about_me():
-  languages = ['Python', 'JavaScript', 'HTML & CSS', 'C#', 'Java']
-  tools = ['Sublime Text', 'VS Code', 'PyCharm', 'Eclipse']
+  languages = ['Python', 'JavaScript', 'Java']
+  tools = ['VS Code', 'PyCharm', 'Eclipse', 'Notepad++']
 ```
   <br>
